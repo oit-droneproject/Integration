@@ -1,7 +1,7 @@
 # Integration
-このページではTelloの操作とOpenccvの使い方について記述する．
+このページではTelloの操作とOpenCVとの統合化について説明します．
 ## Tello Video
-次のコードは Tello カメラを使用するためのものである．以下のコードを実行して TelleにおけるOpenCV を確認すること．
+次のコードは Tello カメラを使用するためのものです．以下のコードを実行して TelleにおけるOpenCV を確認してください．
 ### sample01.py
 ```python
 import cv2
