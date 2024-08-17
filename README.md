@@ -23,7 +23,7 @@ tello.streamoff()
 ```
 
 ## Tello Rotate
-次のコードはOpenCVを使用しながら Tello を 20 度回転させます．以下のコードを実行して実行結果を確認して下さい．
+次のコードはOpenCVを使用しながら Tello を反時計回りに 20 度回転させます．以下のコードを実行して実行結果を確認して下さい．
 ### sample02.py
 
 ```python
