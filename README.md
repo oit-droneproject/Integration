@@ -1,7 +1,7 @@
 # Integration
 このページではTelloの操作とOpenCVとの統合化について説明します．
 ## Tello Video
-次のコードは Tello カメラを使用するためのものです．以下のコードを実行して TelleにおけるOpenCV を確認してください．
+次のコードは Tello カメラを使用するためのものです．以下のコードを実行して実行結果を確認して下さい．
 ### sample01.py
 ```python
 import cv2
@@ -23,7 +23,7 @@ tello.streamoff()
 ```
 
 ## Tello Rotate
-The following code rotates Tello by 30 degrees. Run the code to check Telle and OpenCV.
+次のコードはOpenCVを使用しながら Tello を 20 度回転させます．以下のコードを実行して実行結果を確認して下さい．
 ### sample02.py
 
 ```python
