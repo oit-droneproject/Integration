@@ -50,8 +50,7 @@ tello.land()
 
 
 ## Color Picker
-The following code displays the rgp and hsv values around the clicked location .
-Run the code to check Telle and OpenCV.
+次のコードは、クリックした場所の周囲の rgp 値と hsv 値を表示します。コードを実行して Tello と OpenCV の動きを確認しましょう．
 ### sample03.py
 ```python
 import cv2
