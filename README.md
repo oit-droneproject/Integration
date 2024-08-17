@@ -50,7 +50,7 @@ tello.land()
 
 
 ## Color Picker
-次のコードは、クリックした場所の周囲の rgp 値と hsv 値を表示します。コードを実行して Tello と OpenCV の動きを確認しましょう．
+次のコードは、クリックした場所の周囲の RGB 値と HSV 値を表示します．以下のコードを実行して Tello と OpenCV の動きを確認しましょう．
 ### sample03.py
 ```python
 import cv2
