@@ -89,7 +89,7 @@ cv2.destroyAllWindows()
 tello.end()
 ```
 ## Enclose the red area
-The following code encloses the area of red colour, if any, in the video. Run the code to check Telle and OpenCV.
+次のコードは，ビデオ内の赤色の領域（存在する場合）を囲みます．以下のコードを実行して Tello と OpenCV の動きを確認しましょう．
 ### sample04.py
 ```python
 from djitellopy import Tello
