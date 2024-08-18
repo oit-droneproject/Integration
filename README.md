@@ -1,7 +1,7 @@
 # Integration
 このページではTelloの操作とOpenCVとの統合化について説明します．
 ## Tello Video
-次のコードは Tello カメラを使用するためのものです．以下のコードを実行して実行結果を確認して下さい．
+次のコードは Tello カメラを使用するためのものです．コードを実行して実行結果を確認して下さい．
 ### sample01.py
 ```python
 import cv2
@@ -23,7 +23,7 @@ tello.streamoff()
 ```
 
 ## Tello Rotate
-次のコードはOpenCVを使用しながら Tello を反時計回りに 20 度回転させます．以下のコードを実行して実行結果を確認して下さい．
+次のコードはOpenCVを使用しながら Tello を反時計回りに 20 度回転させます．コードを実行して実行結果を確認して下さい．
 ### sample02.py
 
 ```python
@@ -50,7 +50,7 @@ tello.land()
 
 
 ## Color Picker
-次のコードは、クリックした場所の周囲の RGB 値と HSV 値を表示します．以下のコードを実行して Tello と OpenCV の動きを確認しましょう．
+次のコードは、クリックした場所の周囲の RGB 値と HSV 値を表示します．コードを実行して Tello と OpenCV の動きを確認しましょう．
 ### sample03.py
 ```python
 import cv2
@@ -89,7 +89,7 @@ cv2.destroyAllWindows()
 tello.end()
 ```
 ## Enclose the red area
-次のコードは，ビデオ内の赤色の領域（存在する場合）を囲みます．以下のコードを実行して Tello と OpenCV の動きを確認しましょう．
+次のコードは，ビデオ内の赤色の領域（存在する場合）を囲みます．コードを実行して Tello と OpenCV の動きを確認しましょう．
 ### sample04.py
 ```python
 from djitellopy import Tello
