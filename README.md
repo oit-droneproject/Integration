@@ -143,7 +143,8 @@ tello.streamoff()
 ```
 
 ##  Find red
-The following code rotates Tello 30 degrees at a time until it finds the colour red. When Tello finds red, it stops rotating and stops above the sky. 
+次のコードは，Tello が赤色を見つけるまで，一度に 30 度回転します．Tello が赤色を見つけると，回転が停止し，空の上に停止します．
+コードを実行して Tello と OpenCV の動きを確認しましょう．
 ### sample05.py
 
 ```python
