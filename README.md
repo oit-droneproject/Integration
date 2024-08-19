@@ -201,5 +201,5 @@ tello.land()
 ```
 
 ## Exercises
-1. Make a code for tello to look for Red, Blue or Green and go straight to it.
-2. Make a code for the tello to land near the Red, Blue or Green after accomplishing 1.
+1. Tello が赤、青、緑を探すためのコードを作成し、そこに移動するためのコードを作成しましょう．
+1 を達成した後、Tello が赤、青、または緑の近くに着陸するコードを作成しましょう．
